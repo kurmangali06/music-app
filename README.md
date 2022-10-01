@@ -1,5 +1,5 @@
 ### В этом проекты я использую такия технологий :
-- - Tailwind
+- Tailwind
 - Redux Toolkit (хранение данных / пицц)
 - React Router v6 (навигация)
 - React Hooks (хуки)
